@@ -33,10 +33,10 @@ public final class NetworkUtils {
     private static final String TAG = NetworkUtils.class.getSimpleName();
 
     private static final String DYNAMIC_WEATHER_URL =
-            "https://andfun-weather.udacity.com/weather";
+            "http://www.delaroystudios.com/weatherapp/weather";
 
     private static final String STATIC_WEATHER_URL =
-            "https://andfun-weather.udacity.com/staticweather";
+            "http://www.delaroystudios.com/weatherapp/staticweather";
 
     private static final String FORECAST_BASE_URL = STATIC_WEATHER_URL;
 
